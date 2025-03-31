@@ -18,7 +18,7 @@ Tech Stack
 Installation  
 1. Clone the repository:  
    
-   git clone https://github.com/your-username/todo-list-app.git
+   git clone https://github.com/Pratush05/todo-list-app.git
    
 2. Navigate to the project directory:  
    
